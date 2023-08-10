@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "suç ve ceza",
+      "author": "Dostoyevski",
+      "image": " https://picsum.photos/201",
+      "year": 1866,
+      "page": 500,
+      "description": "Raskolnivkoc hayatı"
+    },
+    {
+      "id": 2,
+      "title": "suç ve ceza",
+      "author": "Dostoyevski",
+      "image": " https://picsum.photos/202",
+      "year": 1866,
+      "page": 500,
+      "description": "Raskolnivkoc hayatı"
+    },
+    {
+      "id": 3,
+      "title": "suç ve ceza",
+      "author": "Dostoyevski",
+      "image": " https://picsum.photos/203",
+      "year": 1866,
+      "page": 500,
+      "description": "Raskolnivkoc hayatı"
+    },
+    {
+      "id": 4,
+      "title": "suç ve ceza",
+      "author": "Dostoyevski",
+      "image": " https://picsum.photos/204",
+      "year": 1866,
+      "page": 500,
+      "description": "Raskolnivkoc hayatı"
+    },
+    {
+      "id": 5,
+      "title": "suç ve ceza",
+      "author": "Dostoyevski",
+      "image": " https://picsum.photos/205",
+      "year": 1866,
+      "page": 500,
+      "description": "Raskolnivkoc hayatı"
+    },
+    {
+      "id": 6,
+      "title": "suç ve ceza",
+      "author": "Dostoyevski",
+      "image": " https://picsum.photos/206",
+      "year": 1866,
+      "page": 500,
+      "description": "Raskolnivkoc hayatı"
+    }
+  ]
+}
